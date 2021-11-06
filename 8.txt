@@ -1,1 +1,2 @@
 Feature1 has changed the code
+This file is modified by feature2
